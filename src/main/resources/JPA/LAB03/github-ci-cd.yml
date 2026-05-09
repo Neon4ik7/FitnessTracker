@@ -9,6 +9,7 @@
 # jednego nie przerywa pozostałych — widzisz pełny obraz, które laboratorium
 # już zielenie się, a które jeszcze nie. Job `package` buduje JAR tylko,
 # gdy wszystkie stage'e są zielone.
+
 name: Java CI with Maven
 
 permissions:
